@@ -1,0 +1,97 @@
+﻿@model StoreFront.Models.Cart
+
+@using Microsoft.AspNet.Identity;
+@using Microsoft.AspNet.Identity.Owin;
+@{
+    ViewBag.Title = "Details";
+    var appUser = HttpContext.Current.GetOwinContext().GetUserManager<ApplicationUserManager>().FindById(User.Identity.GetUserId());
+    var isAdmin = appUser != null && appUser.IsAdmin;
+}
+<h2 class="page-header text-center">Cart Details</h2>
+<div>
+    
+    <hr /><blockquote class="pull-right">
+    <dl class="dl-horizontal text-primary">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Discount)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Discount)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Tracking)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Tracking)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TaxRate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TaxRate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PaymentId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PaymentId)
+        </dd>
+    </dl>
+    <strong><cite>Your Order Details</cite></strong>
+</blockquote>
+    <table class="table table-striped">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Items[0].Item.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Items[0].Item.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Items[0].Item.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Items[0].Item.Size)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Items[0].Quantity)
+            </th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model.Items)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Item.Size)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantity)
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+<p>
+    @if (isAdmin)
+    {
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) @:|
+    }
+    @Html.ActionLink("Continue Shopping", "Index", "Products") |
+    @Html.ActionLink("Checkout", "Checkout")
+</p>

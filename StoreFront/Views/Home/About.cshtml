@@ -1,0 +1,80 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+@*<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>*@
+
+<style>
+     .container-fluid {
+      padding: 60px 50px;
+  }
+  .bg-grey {
+      background-color: #f6f6f6;
+  }
+   .logo-small {
+      color: #49d;
+      font-size: 50px;
+  }
+  .logo {
+      color: #49d;
+      font-size: 200px;
+  }
+   h2 {
+      font-size: 24px;
+      text-transform: uppercase;
+      color: #303030;
+      font-weight: 600;
+      margin-bottom: 30px;
+  }
+  h4 {
+      font-size: 19px;
+      line-height: 1.375em;
+      color: #303030;
+      font-weight: 400;
+      margin-bottom: 30px;
+  }  
+  p {
+      font: 400 15px Lato, sans-serif;
+      line-height: 1.8;
+      color: #818181;
+  }
+ 
+</style>
+
+<div id="about" class="container-fluid">
+    <div class="row">
+        <div class="col-sm-8">
+            <h2>About Our Company</h2><br>
+            <h4>Founded in 2001, "Pie For Your Eye" established themselves as a top notch, quality business through hard work, determination and the absolute best ingredients from safe local farmers. 
+            Our first large order was a huge event for a big corporation where our team had a challenge of baking 100 cookies, 25 cakes and 25 pies within a very short window of time; while they demanded a variety of flavours, tastes and consistencies.
+            </h4><br>
+            <p>This basis gave us the motivation that was needed to propel us forward toward a successful and thriving website. 
+            To this day we continue to offer and sell the best and most delicious goods you can find.
+             Our mission is to excite your palette and delight your taste buds through yummy and exciting treats, and a team of outstanding people.</p>
+            <br>@*<button class="btn btn-default btn-lg">Get in Touch</button>*@
+            @Html.ActionLink("Get in Touch", "Contact", "Home", null, new { @class = "btn btn-primary btn-lg" })
+        </div>
+        <div class="col-sm-4">
+            <span class="glyphicon glyphicon-road logo"></span>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid bg-grey">
+    <div class="row">
+        <div class="col-sm-4">
+            <span class="glyphicon glyphicon-globe logo"></span>
+        </div>
+        <div class="col-sm-8">
+            @*<h2>Our Values</h2><br>*@
+            <h4>  Our company loves to hear your thoughts, opinions, comments and might even feature an idea or concept with a free sample of your choice if you choose to share. 
+            After 16 years of continued growth, we are always seeking new ways to improve and provide a superb experience for all involved. Thank-you for your loyalty and interest. 
+            We certainly hope you like what you see.</h4><br>
+            <p>
+                <strong>Pie for your eye.</strong> 
+                A company based on wholesome ingredients and an easy going but driven team of personalities. 
+                Try us out today. We guarantee a delectable SWEET TREAT.
+            </p>
+        </div>
+    </div>
+</div>

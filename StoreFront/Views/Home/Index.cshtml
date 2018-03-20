@@ -1,0 +1,170 @@
+﻿@model IEnumerable<StoreFront.Models.Product>
+@using Microsoft.AspNet.Identity;
+@using Microsoft.AspNet.Identity.Owin;
+
+@{
+    ViewBag.Title = "PieForYourEye";
+    var appUser = HttpContext.Current.GetOwinContext().GetUserManager<ApplicationUserManager>().FindById(User.Identity.GetUserId());
+    var isAdmin = appUser != null && appUser.IsAdmin;
+}
+
+<style>
+    .carousel-inner > .item > img,
+    .carousel-inner > .item > a > img {
+        width: 70%;
+        margin: auto;
+    }
+    .carousel-indicators .active{
+    background-color: #49d;
+}
+    .carousel-control {
+        background-color: #49d;
+    }
+    .carousel {
+        margin-top: 60px;
+        margin-bottom:60px;
+    }
+    #feature img {
+        margin:auto;
+    }
+      .container-fluid {
+      padding: 60px 50px;
+  }
+</style>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+  
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <img src="~/Content/ProductImages/sugarCookies.jpg" alt="SC1">
+        </div>
+
+        <div class="item">
+           
+        
+            <img src="~/Content/ProductImages/darkChocolateCake.jpg" alt="DCC1">
+        </div>
+
+        <div class="item">
+            <img src="~/Content/ProductImages/blueberryPie.jpg" alt="BP1">
+        </div>
+
+        <div class="item">
+            <img src="~/Content/ProductImages/applePie2.jpg" alt="AP2">
+        </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+<div class="container-fluid text-center bg-grey">
+    <div id="feature" class="row">
+        <div class="col-md-4">
+            <img class="img-circle img-responsive" src="~/Content/ProductImages/sugarCookies.jpg" alt="C1" width="400" height="300">
+            <h2>Cookies and Brownies</h2>
+            <p>
+                Having a meeting with your boss after a long, stressful week? Wanting to show some support and boost morale for your clients or co workers?
+                Maybe you and your team of computer whizzes hardly ever leave the screen.
+                Not only will you taste the benefits of hard working, crunchy, soft, chewy or crumbly baked food, but we use cookies on our site to make your next visits easier to navigate.
+            </p>
+            <p>@Html.ActionLink("Shop", "Index", "Products", null, new { @class = "btn btn-primary btn-lg" })</p>
+        </div>
+        <div class="col-md-4">
+            <img class="img-circle img-responsive" src="~/Content/ProductImages/redVelvetCupCake.jpg" alt="CC2" width="400" height="300">
+            <h2>Cupcakes and Cakes</h2>
+            <p>
+                From small to large and birthday to any holiday celebration, we have the Cake or Cupcake for you.
+                Our cakes have that something extra appealing with the perfect measure on the icing, filling for extra gooey goodness or go super simple with no decor.
+                Enjoy a delicious and vegan friendly (if requested) mass of yummy goodness. Try as a layered tier, or in small bite size snacks.
+            </p>
+            <p>@Html.ActionLink("Shop", "Index", "Products", null, new { @class = "btn btn-primary btn-lg" })</p>
+        </div>
+        <div class="col-md-4">
+            <img class="img-circle img-responsive" src="~/Content/ProductImages/applePie1.jpg" alt="AP1" width="400" height="300">
+            <h2>Pies! Pies! Pies!</h2>
+            <p>
+                Oh my! The selection of pies we have is enormous.
+                When you're sitting with your family at the dinner table, enjoying a nice, warm fresh meal, what comes to mind the most? DESSERT.
+                Nothing beats a mouthwatering, sweet pie made from farm healthy ingredients like strawberries,blueberries and other flavourful treats.
+                Try one of our "Decadent Apple Pie"s today !
+            </p>
+            <p> @Html.ActionLink("Shop", "Index", "Products", null, new { @class = "btn btn-primary btn-lg" })</p>
+        </div>
+    </div>
+</div>
+
+@*<h2>Welcome to @ViewBag.Title</h2>
+
+<table class="table table-striped">
+    <tr>
+        <th>
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StockQuantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+    
+        <th>
+            @Html.DisplayNameFor(model => model.Size)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img class="img-responsive" src="@item.ThumbnailFilename" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StockQuantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+          
+            <td>
+                @Html.DisplayFor(modelItem => item.Size)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", "Products", new { id = item.Id }, new { @class = "btn btn-sm btn-primary" })
+                @{ if (isAdmin)
+                    {
+                        @:| @Html.ActionLink("Edit", "Edit", "Products", new { id = item.Id }, new { @class = "btn btn-sm btn-warning" })
+                        @:| @Html.ActionLink("Delete", "Delete", "Products", new { id = item.Id }, new { @class = "btn btn-sm btn-danger", data_target = "okay" })
+                }}
+            </td>
+        </tr>
+                    }*@
+</table>
+
+

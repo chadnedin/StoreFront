@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace StoreFront.Models
+{
+    public enum CartStatus {  OPEN, CHECKING_OUT, PAID, SHIPPED}
+    public class Cart
+    {
+        public virtual List<ProductQty> Items { get; set; }
+        public String Tracking { get; set; }
+
+        public int Id { get; set; }
+        
+        public double Discount { get; set; }
+
+        public double TaxRate { get; set; }
+
+        public DateTime Date { get; set; }
+        public int PaymentId { get; set; }
+        public User Purchaser { get; set; }
+        public CartStatus Status { get; set; }
+
+    }
+
+    public class ProductQty
+    {
+        public Product Item { get; set; }
+
+        public int Id { get; set; }
+
+        public int Quantity { get; set; }
+    }
+}

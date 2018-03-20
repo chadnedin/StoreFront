@@ -1,0 +1,384 @@
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\ApplicationInsights.config
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\csc.exe
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\System.Collections.Immutable.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\System.Reflection.Metadata.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\vbc.exe
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\VBCSCompiler.exe
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\VBCSCompiler.exe.config
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\StoreFront.dll.config
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\StoreFront.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\StoreFront.pdb
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Antlr3.Runtime.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\EntityFramework.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\EntityFramework.SqlServer.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AI.Agent.Intercept.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AI.DependencyCollector.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AI.Web.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AI.WindowsServer.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.ApplicationInsights.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Core.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Cookies.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Facebook.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Google.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.OAuth.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Twitter.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Web.Infrastructure.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Newtonsoft.Json.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Owin.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.Helpers.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.Mvc.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.Optimization.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.Razor.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.WebPages.Deployment.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.WebPages.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.WebPages.Razor.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\WebGrease.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AI.DependencyCollector.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AI.Web.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AI.WindowsServer.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.ApplicationInsights.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.Helpers.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.Mvc.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.Optimization.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.Razor.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.WebPages.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.WebPages.Deployment.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\System.Web.WebPages.Razor.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Antlr3.Runtime.pdb
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Newtonsoft.Json.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\EntityFramework.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\EntityFramework.SqlServer.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Core.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Facebook.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Cookies.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.OAuth.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Google.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Twitter.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\TERM 4\c web app\StoreFront\StoreFront\obj\Debug\StoreFront.csprojResolveAssemblyReference.cache
+F:\TERM 4\c web app\StoreFront\StoreFront\obj\Debug\StoreFront.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\obj\Debug\StoreFront.pdb
+F:\WEB\StoreFront\StoreFront\bin\ApplicationInsights.config
+F:\WEB\StoreFront\StoreFront\bin\roslyn\csc.exe
+F:\WEB\StoreFront\StoreFront\bin\roslyn\csc.exe.config
+F:\WEB\StoreFront\StoreFront\bin\roslyn\csc.rsp
+F:\WEB\StoreFront\StoreFront\bin\roslyn\csi.exe
+F:\WEB\StoreFront\StoreFront\bin\roslyn\csi.rsp
+F:\WEB\StoreFront\StoreFront\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WEB\StoreFront\StoreFront\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WEB\StoreFront\StoreFront\bin\roslyn\System.AppContext.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\System.Collections.Immutable.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\System.IO.FileSystem.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\System.Reflection.Metadata.dll
+F:\WEB\StoreFront\StoreFront\bin\roslyn\vbc.exe
+F:\WEB\StoreFront\StoreFront\bin\roslyn\vbc.exe.config
+F:\WEB\StoreFront\StoreFront\bin\roslyn\vbc.rsp
+F:\WEB\StoreFront\StoreFront\bin\roslyn\VBCSCompiler.exe
+F:\WEB\StoreFront\StoreFront\bin\roslyn\VBCSCompiler.exe.config
+F:\WEB\StoreFront\StoreFront\bin\StoreFront.dll.config
+F:\WEB\StoreFront\StoreFront\bin\StoreFront.dll
+F:\WEB\StoreFront\StoreFront\bin\StoreFront.pdb
+F:\WEB\StoreFront\StoreFront\bin\Antlr3.Runtime.dll
+F:\WEB\StoreFront\StoreFront\bin\EntityFramework.dll
+F:\WEB\StoreFront\StoreFront\bin\EntityFramework.SqlServer.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AI.Agent.Intercept.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AI.DependencyCollector.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AI.Web.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AI.WindowsServer.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.ApplicationInsights.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Core.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Cookies.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Facebook.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Google.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.OAuth.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Twitter.dll
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Web.Infrastructure.dll
+F:\WEB\StoreFront\StoreFront\bin\Newtonsoft.Json.dll
+F:\WEB\StoreFront\StoreFront\bin\Owin.dll
+F:\WEB\StoreFront\StoreFront\bin\System.Web.Helpers.dll
+F:\WEB\StoreFront\StoreFront\bin\System.Web.Mvc.dll
+F:\WEB\StoreFront\StoreFront\bin\System.Web.Optimization.dll
+F:\WEB\StoreFront\StoreFront\bin\System.Web.Razor.dll
+F:\WEB\StoreFront\StoreFront\bin\System.Web.WebPages.Deployment.dll
+F:\WEB\StoreFront\StoreFront\bin\System.Web.WebPages.dll
+F:\WEB\StoreFront\StoreFront\bin\System.Web.WebPages.Razor.dll
+F:\WEB\StoreFront\StoreFront\bin\WebGrease.dll
+F:\WEB\StoreFront\StoreFront\bin\Antlr3.Runtime.pdb
+F:\WEB\StoreFront\StoreFront\bin\EntityFramework.xml
+F:\WEB\StoreFront\StoreFront\bin\EntityFramework.SqlServer.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AI.DependencyCollector.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AI.Web.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AI.WindowsServer.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.ApplicationInsights.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\WEB\StoreFront\StoreFront\bin\Newtonsoft.Json.xml
+F:\WEB\StoreFront\StoreFront\bin\System.Web.Helpers.xml
+F:\WEB\StoreFront\StoreFront\bin\System.Web.Mvc.xml
+F:\WEB\StoreFront\StoreFront\bin\System.Web.Optimization.xml
+F:\WEB\StoreFront\StoreFront\bin\System.Web.Razor.xml
+F:\WEB\StoreFront\StoreFront\bin\System.Web.WebPages.xml
+F:\WEB\StoreFront\StoreFront\bin\System.Web.WebPages.Deployment.xml
+F:\WEB\StoreFront\StoreFront\bin\System.Web.WebPages.Razor.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Core.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Facebook.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Cookies.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.OAuth.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Google.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Twitter.xml
+F:\WEB\StoreFront\StoreFront\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\WEB\StoreFront\StoreFront\obj\Debug\StoreFront.csprojResolveAssemblyReference.cache
+F:\WEB\StoreFront\StoreFront\obj\Debug\StoreFront.dll
+F:\WEB\StoreFront\StoreFront\obj\Debug\StoreFront.pdb
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\csc.exe.config
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\csc.rsp
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\csi.exe
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\csi.rsp
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\System.AppContext.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\System.IO.FileSystem.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\vbc.exe.config
+F:\TERM 4\c web app\StoreFront\StoreFront\bin\roslyn\vbc.rsp
+F:\StoreFront\StoreFront\bin\ApplicationInsights.config
+F:\StoreFront\StoreFront\bin\roslyn\csc.exe
+F:\StoreFront\StoreFront\bin\roslyn\csc.exe.config
+F:\StoreFront\StoreFront\bin\roslyn\csc.rsp
+F:\StoreFront\StoreFront\bin\roslyn\csi.exe
+F:\StoreFront\StoreFront\bin\roslyn\csi.rsp
+F:\StoreFront\StoreFront\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\StoreFront\StoreFront\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\StoreFront\StoreFront\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\StoreFront\StoreFront\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\StoreFront\StoreFront\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\StoreFront\StoreFront\bin\roslyn\System.AppContext.dll
+F:\StoreFront\StoreFront\bin\roslyn\System.Collections.Immutable.dll
+F:\StoreFront\StoreFront\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\StoreFront\StoreFront\bin\roslyn\System.IO.FileSystem.dll
+F:\StoreFront\StoreFront\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\StoreFront\StoreFront\bin\roslyn\System.Reflection.Metadata.dll
+F:\StoreFront\StoreFront\bin\roslyn\vbc.exe
+F:\StoreFront\StoreFront\bin\roslyn\vbc.exe.config
+F:\StoreFront\StoreFront\bin\roslyn\vbc.rsp
+F:\StoreFront\StoreFront\bin\roslyn\VBCSCompiler.exe
+F:\StoreFront\StoreFront\bin\roslyn\VBCSCompiler.exe.config
+F:\StoreFront\StoreFront\bin\StoreFront.dll.config
+F:\StoreFront\StoreFront\bin\StoreFront.dll
+F:\StoreFront\StoreFront\bin\StoreFront.pdb
+F:\StoreFront\StoreFront\bin\Antlr3.Runtime.dll
+F:\StoreFront\StoreFront\bin\EntityFramework.dll
+F:\StoreFront\StoreFront\bin\EntityFramework.SqlServer.dll
+F:\StoreFront\StoreFront\bin\Microsoft.AI.Agent.Intercept.dll
+F:\StoreFront\StoreFront\bin\Microsoft.AI.DependencyCollector.dll
+F:\StoreFront\StoreFront\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\StoreFront\StoreFront\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\StoreFront\StoreFront\bin\Microsoft.AI.Web.dll
+F:\StoreFront\StoreFront\bin\Microsoft.AI.WindowsServer.dll
+F:\StoreFront\StoreFront\bin\Microsoft.ApplicationInsights.dll
+F:\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Core.dll
+F:\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\StoreFront\StoreFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.dll
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Cookies.dll
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.dll
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Facebook.dll
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Google.dll
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.OAuth.dll
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Twitter.dll
+F:\StoreFront\StoreFront\bin\Microsoft.Web.Infrastructure.dll
+F:\StoreFront\StoreFront\bin\Newtonsoft.Json.dll
+F:\StoreFront\StoreFront\bin\Owin.dll
+F:\StoreFront\StoreFront\bin\System.Web.Helpers.dll
+F:\StoreFront\StoreFront\bin\System.Web.Mvc.dll
+F:\StoreFront\StoreFront\bin\System.Web.Optimization.dll
+F:\StoreFront\StoreFront\bin\System.Web.Razor.dll
+F:\StoreFront\StoreFront\bin\System.Web.WebPages.Deployment.dll
+F:\StoreFront\StoreFront\bin\System.Web.WebPages.dll
+F:\StoreFront\StoreFront\bin\System.Web.WebPages.Razor.dll
+F:\StoreFront\StoreFront\bin\WebGrease.dll
+F:\StoreFront\StoreFront\bin\Antlr3.Runtime.pdb
+F:\StoreFront\StoreFront\bin\EntityFramework.xml
+F:\StoreFront\StoreFront\bin\EntityFramework.SqlServer.xml
+F:\StoreFront\StoreFront\bin\Microsoft.AI.DependencyCollector.xml
+F:\StoreFront\StoreFront\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\StoreFront\StoreFront\bin\Microsoft.AI.Web.xml
+F:\StoreFront\StoreFront\bin\Microsoft.AI.WindowsServer.xml
+F:\StoreFront\StoreFront\bin\Microsoft.ApplicationInsights.xml
+F:\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\StoreFront\StoreFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\StoreFront\StoreFront\bin\Newtonsoft.Json.xml
+F:\StoreFront\StoreFront\bin\System.Web.Helpers.xml
+F:\StoreFront\StoreFront\bin\System.Web.Mvc.xml
+F:\StoreFront\StoreFront\bin\System.Web.Optimization.xml
+F:\StoreFront\StoreFront\bin\System.Web.Razor.xml
+F:\StoreFront\StoreFront\bin\System.Web.WebPages.xml
+F:\StoreFront\StoreFront\bin\System.Web.WebPages.Deployment.xml
+F:\StoreFront\StoreFront\bin\System.Web.WebPages.Razor.xml
+F:\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Core.xml
+F:\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.xml
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.xml
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Facebook.xml
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Cookies.xml
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.OAuth.xml
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Google.xml
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Twitter.xml
+F:\StoreFront\StoreFront\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\StoreFront\StoreFront\obj\Debug\StoreFront.csprojResolveAssemblyReference.cache
+F:\StoreFront\StoreFront\obj\Debug\StoreFront.dll
+F:\StoreFront\StoreFront\obj\Debug\StoreFront.pdb
+F:\Creating\StoreFront\StoreFront\bin\ApplicationInsights.config
+F:\Creating\StoreFront\StoreFront\bin\roslyn\csc.exe
+F:\Creating\StoreFront\StoreFront\bin\roslyn\csc.exe.config
+F:\Creating\StoreFront\StoreFront\bin\roslyn\csc.rsp
+F:\Creating\StoreFront\StoreFront\bin\roslyn\csi.exe
+F:\Creating\StoreFront\StoreFront\bin\roslyn\csi.rsp
+F:\Creating\StoreFront\StoreFront\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Creating\StoreFront\StoreFront\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Creating\StoreFront\StoreFront\bin\roslyn\System.AppContext.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\System.Collections.Immutable.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\System.IO.FileSystem.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\System.Reflection.Metadata.dll
+F:\Creating\StoreFront\StoreFront\bin\roslyn\vbc.exe
+F:\Creating\StoreFront\StoreFront\bin\roslyn\vbc.exe.config
+F:\Creating\StoreFront\StoreFront\bin\roslyn\vbc.rsp
+F:\Creating\StoreFront\StoreFront\bin\roslyn\VBCSCompiler.exe
+F:\Creating\StoreFront\StoreFront\bin\roslyn\VBCSCompiler.exe.config
+F:\Creating\StoreFront\StoreFront\bin\StoreFront.dll.config
+F:\Creating\StoreFront\StoreFront\bin\StoreFront.dll
+F:\Creating\StoreFront\StoreFront\bin\StoreFront.pdb
+F:\Creating\StoreFront\StoreFront\bin\Antlr3.Runtime.dll
+F:\Creating\StoreFront\StoreFront\bin\EntityFramework.dll
+F:\Creating\StoreFront\StoreFront\bin\EntityFramework.SqlServer.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AI.DependencyCollector.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AI.Web.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AI.WindowsServer.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.ApplicationInsights.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Google.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Web.Infrastructure.dll
+F:\Creating\StoreFront\StoreFront\bin\Newtonsoft.Json.dll
+F:\Creating\StoreFront\StoreFront\bin\Owin.dll
+F:\Creating\StoreFront\StoreFront\bin\System.Web.Helpers.dll
+F:\Creating\StoreFront\StoreFront\bin\System.Web.Mvc.dll
+F:\Creating\StoreFront\StoreFront\bin\System.Web.Optimization.dll
+F:\Creating\StoreFront\StoreFront\bin\System.Web.Razor.dll
+F:\Creating\StoreFront\StoreFront\bin\System.Web.WebPages.Deployment.dll
+F:\Creating\StoreFront\StoreFront\bin\System.Web.WebPages.dll
+F:\Creating\StoreFront\StoreFront\bin\System.Web.WebPages.Razor.dll
+F:\Creating\StoreFront\StoreFront\bin\WebGrease.dll
+F:\Creating\StoreFront\StoreFront\bin\Antlr3.Runtime.pdb
+F:\Creating\StoreFront\StoreFront\bin\EntityFramework.xml
+F:\Creating\StoreFront\StoreFront\bin\EntityFramework.SqlServer.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AI.DependencyCollector.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AI.Web.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AI.WindowsServer.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.ApplicationInsights.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Creating\StoreFront\StoreFront\bin\Newtonsoft.Json.xml
+F:\Creating\StoreFront\StoreFront\bin\System.Web.Helpers.xml
+F:\Creating\StoreFront\StoreFront\bin\System.Web.Mvc.xml
+F:\Creating\StoreFront\StoreFront\bin\System.Web.Optimization.xml
+F:\Creating\StoreFront\StoreFront\bin\System.Web.Razor.xml
+F:\Creating\StoreFront\StoreFront\bin\System.Web.WebPages.xml
+F:\Creating\StoreFront\StoreFront\bin\System.Web.WebPages.Deployment.xml
+F:\Creating\StoreFront\StoreFront\bin\System.Web.WebPages.Razor.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Google.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Creating\StoreFront\StoreFront\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Creating\StoreFront\StoreFront\obj\Debug\StoreFront.csprojResolveAssemblyReference.cache
+F:\Creating\StoreFront\StoreFront\obj\Debug\StoreFront.dll
+F:\Creating\StoreFront\StoreFront\obj\Debug\StoreFront.pdb

@@ -1,0 +1,109 @@
+﻿@model StoreFront.Models.ProductDetailsViewModel
+
+@using Microsoft.AspNet.Identity;
+@using Microsoft.AspNet.Identity.Owin;
+@{
+    ViewBag.Title = "Details";
+    var appUser = HttpContext.Current.GetOwinContext().GetUserManager<ApplicationUserManager>().FindById(User.Identity.GetUserId());
+    var isAdmin = appUser != null && appUser.IsAdmin;
+}
+
+<style>
+ .space {
+     padding-top: 2px;
+ }
+    
+</style>
+<h2>@Html.DisplayFor(model => model.Item.Name)</h2>
+<div>
+    
+    <hr />
+    <table class="table table-striped" >
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Item.Name)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.Item.Name)
+            </td>
+            </tr>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Item.Description)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.Item.Description)
+            </td>
+            </tr>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Item.StockQuantity)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.Item.StockQuantity)
+            </td>
+            </tr>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Item.Price)
+            </th>
+            <td>
+                $
+                @Html.DisplayFor(model => model.Item.Price)
+            </td>
+            </tr>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Item.Size)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.Item.Size)
+            </td>
+            </tr>
+        <tr>
+            <th>
+                Click Image to Zoom
+            </th>
+            <td>
+                <img class="img-responsive" src="@Model.Item.ThumbnailFilename" onclick="$('#modal-lightbox').modal()" />
+            </td>
+            </tr>
+</table>
+</div>
+<div class="text-center">
+    @if (isAdmin)
+    {
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Item.Id }) @:|
+    }
+    @Html.ActionLink("Back to List", "Index")
+</div>
+<div class="text-center">
+    @if (appUser != null)
+    {
+        using (Html.BeginForm("AddToCart", "Carts", new { id = Model.Item.Id }))
+        {
+            @Html.EditorFor(model => model.Quantity)
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10 ">
+                    <input type="submit" value="Add to Cart" class="btn btn-primary" />
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        @Html.ActionLink("Login to Add to Cart", "Login", "Account", null, new { @class = "btn btn-success" })
+    }
+</div>
+<div class="modal fade" id="modal-lightbox" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body">
+                <img class="img-responsive" src="@Model.Item.ImageFilename" />
+            </div>
+        </div>
+    </div>
+</div>
